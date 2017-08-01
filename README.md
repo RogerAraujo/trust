@@ -1,54 +1,55 @@
-!["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
+!["A Evolução da Confiança"](https://i.imgur.com/kde760y.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	JOGUE AQUI: [http://ncase.me/trust/](http://ncase.me/trust/)
 
-*The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
+*A Evolução da Confiança* é dedicada ao domínio público, e foi criada graças ao muitos recursos disponíveis sob licenças de código aberto e Creative Commons! Aí está completa de música, efeitos sonoros e código fonte utilizados:
 
-**Music:** "Bleu" by Komiku (CC Zero). [Download their full album on Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**Música:** "Bleu", por Komiku (CC Zero). [Baixe o álbum completo no Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
-**Sound Effects:**
+**Efeitos Sonoros:**
 
-* [Coin insert](https://freesound.org/people/bassmosphere/sounds/384700/) by bassmosphere (CC Zero)
-* [Coin get!](https://freesound.org/people/plasterbrain/sounds/242857/) by plasterbrain (CC Zero)
-* [Evil Laugh](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/) by JohnsonBrandEditing (CC Zero)
-* [Slot machine](https://freesound.org/people/lukaso/sounds/69689/) by lukaso (CC Sampling+)
-* [Drumroll](https://freesound.org/people/adriann/sounds/191718/) by adriann (CC Zero)
-* [click plink pop boop bonk](https://freesound.org/people/Owdeo/sounds/116653/) by Owdeo (CC BY-NC)
-* [Swoosh](https://freesound.org/people/aglinder/sounds/264468/) by aglinder (CC Zero)
-* [Squeaky Toy](https://freesound.org/people/survivalzombie/sounds/240015/) by survivalzombie (CC Zero)
-* [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
-* [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
+* [Inserir moeda](https://freesound.org/people/bassmosphere/sounds/384700/), por bassmosphere (CC Zero)
+* [Ganhar moeda!](https://freesound.org/people/plasterbrain/sounds/242857/), por plasterbrain (CC Zero)
+* [Risada Maligna](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/), por JohnsonBrandEditing (CC Zero)
+* [Máquina de jogo](https://freesound.org/people/lukaso/sounds/69689/), por lukaso (CC Sampling+)
+* [Tambores](https://freesound.org/people/adriann/sounds/191718/), por adriann (CC Zero)
+* [clic plinc pop bup bonc](https://freesound.org/people/Owdeo/sounds/116653/), por Owdeo (CC BY-NC)
+* [Suuush](https://freesound.org/people/aglinder/sounds/264468/), por aglinder (CC Zero)
+* [Brinquedo que guincha](https://freesound.org/people/survivalzombie/sounds/240015/), por survivalzombie (CC Zero)
+* [Tump](https://freesound.org/people/Brokenphono/sounds/344149/), por Brokenphono (CC Zero)
+* [Pum](https://freesound.org/people/DSISStudios/sounds/241000/), por DSISStudios (CC Zero)
 
-**Open Source Libraries:**
+**Bibliotecas de Código Aberto:**
 
-* [PIXI.js](http://www.pixijs.com/) for rendering graphics
-* [Howler.js](https://howlerjs.com/) for the audio
-* [Tween.js](http://www.createjs.com/tweenjs) for tweening animation
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) for pop-up tooltips
-* [Q](https://github.com/kriskowal/q/) for promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
-* [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
+* [PIXI.js](http://www.pixijs.com/), para desenhar gráficos
+* [Howler.js](https://howlerjs.com/), para o áudio
+* [Tween.js](http://www.createjs.com/tweenjs), para animações
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/), para textos pop-up
+* [Q](https://github.com/kriskowal/q/), para promessas assíncronas
+* [MinPubSub](https://github.com/daniellmb/MinPubSub), para anunciar/receber eventos
+* [Pegasus](https://github.com/typicode/pegasus), porque sou preguiçoso demais para criar meu próprio XHR
 
-#	How-To: Translate this thang!
+#	Guia: Como traduzir!
 
-**Step 1)** Fork or download this repo    
-(if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
+**Passo 1)** Baixe ou faça um fork do repositório
+(se fizer um fork, certifique-se de que o *seu* repositório está num ramo chamado `gh-pages`, pois assim o GitHub pode gerar uma página para ele automaticamente!)
 
-**Step 2)** Translate the following files:
+**Passo 2)** Traduza os arquivos a seguir:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
-(optional) `peeps/index.html` -- The full credits (a few words)
+`index.html` -- Título e texto para compartilhamento social (poucas palavras)
+`words.html` -- Todo o texto do guia interativo (~3.300 palavras)
+(opcional) `notes/index.html` -- Anotações (~1.100 palavras)
+(opcional) `peeps/index.html` -- Créditos (poucas palavras)
 
-**Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
+**Passo 3)** Lembre-se de testar sua tradução! Você pode fazer o teste localmente usando o [http-server](https://www.npmjs.com/package/http-server) ou o [MAMP](https://www.mamp.info/en/).
 
-**Step 4)** Email me with a link to your forked repo / the translated files, at `N {{at}} NCASE {{dot}} ME` There may be a few things here and there we need to fix! (also, if you run into any issues, please email me as well! I may take a while to respond since I'm away the next couple weeks)
+**Passo 4)** Envie um email para mim com o seu repositório ou os arquivos traduzidos, no endereço `N {{arroba}} NCASE {{ponto}} ME` Pode haver algumas coisas aqui e ali que precisamos arrumar! (e se você tiver algum problema, por favor mande um email também! Posso demorar um pouco a responder porque vou me ausentar por umas duas semanas)
 
-**Step 5)** Wait for me to stop being busy and/or lazy and actually link your translated version from the main English version
+**Passo 5)** Espere até que eu pare quieto ou deixe de ser preguiçoso e faça um link para a sua versão traduzida a partir da versão principal em Inglês
 
-**Step 6)** Party! 🎉
+**Passo 6)** Faça festa! 🎉
 
-#	"LICENSE"
+#	"LICENÇA"
 
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
+[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): este é um trabalho dedicado ao domínio público, então, basicamente, faça o que der na telha! Vou ficar muito contente se você me der o crédito, mas não vou mandar oficiais de justiça atrás de você nem nada do gênero.
+
