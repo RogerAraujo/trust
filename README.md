@@ -1,6 +1,7 @@
 !["A Evolução da Confiança"](https://i.imgur.com/kde760y.png)
 
-#	JOGUE AQUI: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	JOGUE AQUI: [https://rogeraraujo.github.io/trust/](https://rogeraraujo.github.io/trust/)
+#	VERSÃO ORIGINAL EM INGLÊS: [http://ncase.me/trust/](http://ncase.me/trust/)
 
 *A Evolução da Confiança* é dedicada ao domínio público, e foi criada graças ao muitos recursos disponíveis sob licenças de código aberto e Creative Commons! Aí está a lista completa de música, efeitos sonoros e código fonte utilizados:
 
